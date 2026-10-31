@@ -87,7 +87,7 @@ The command serves the supplied static files directly. It does not rebuild the a
 
 ## Deployment
 
-The site is currently hosted on [Vercel](https://ria-startup-deck.vercel.app/). The static files are served from the repository root, with no build or dependency installation step required.
+The site is currently hosted on [Vercel](https://ria-startup-deck.vercel.app/). This Vercel project is connected to the GitHub repository, and pushes to `main` automatically create production deployments. The static files are served from the repository root, with no build or dependency installation step required.
 
 The original Hostinger website files are retained unchanged; the README, screenshot directory, and Vercel configuration are additions for documentation and hosting.
 
