@@ -26,36 +26,9 @@ This is a learning and portfolio project. The startup content is presentation ma
 - About the Team
 
 ## Responsive previews
-
-Screenshots will be added here. The spaces below are intentionally reserved for mobile, tablet, and desktop previews.
-
-<table>
-  <thead>
-    <tr>
-      <th width="33%">Mobile</th>
-      <th width="34%">Tablet / iPad</th>
-      <th width="33%">Desktop</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><br /><br /><br /><em>Mobile screenshot coming soon</em><br /><br /><br /></td>
-      <td align="center"><br /><br /><br /><em>Tablet screenshot coming soon</em><br /><br /><br /></td>
-      <td align="center"><br /><br /><br /><em>Desktop screenshot coming soon</em><br /><br /><br /></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- Future screenshot files:
-docs/screenshots/mobile.png
-docs/screenshots/tablet.png
-docs/screenshots/desktop.png
-
-Replace the corresponding table cell with:
-<img src="docs/screenshots/mobile.png" alt="StartUpDeck on a mobile phone" />
-<img src="docs/screenshots/tablet.png" alt="StartUpDeck on a tablet" />
-<img src="docs/screenshots/desktop.png" alt="StartUpDeck on a desktop" />
--->
+<img src="./chrome_3Str7ikceO.png" alt="StartUpDeck on a mobile phone" />
+<img src="./chrome_3oIQNij20T.png" alt="StartUpDeck on a tablet" />
+<img src="./chrome_7urxh8tkLX.png" alt="StartUpDeck on a desktop" />
 
 ## Repository contents
 
